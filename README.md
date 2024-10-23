@@ -12,6 +12,7 @@ Software Engineer
 * ✉️  You can contact me at (10alessandro96@gmail.com)
 * 🧠  I'm Software Engineer
 * 🤝  I'm open to collaborate with anyone
+* 📽️ Favourite film? The ones that are well-made
 * ⚡  Lover of the sea 🌊 | I like to read 
 * 📝 When I was young, I created a smart home, and <a href="https://jcoms.fesb.unist.hr/pdfs/v17n2_2021-0005_patrono.pdf">here</a> you can find the publication of the paper
 
