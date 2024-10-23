@@ -9,8 +9,8 @@ Software Engineer
 </p>
 
 * 🌍  I'm based in Lecce, Italy. Yes, I eat Pasticcioto every day ❤️
-* ✉️  You can contact me at (10alessandro96@gmail.com)
 * 🧠  I'm Software Engineer
+* ✉️  You can contact me at (10alessandro96@gmail.com)
 * 🤝  I'm open to collaborate with anyone
 * 📽️ Favourite film? The ones that are well-made
 * ⚡  Lover of the sea 🌊 | I like to read 
