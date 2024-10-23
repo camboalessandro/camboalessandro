@@ -6,7 +6,7 @@ Software Engineer
 
 <img src="https://y.yarn.co/1cbdd280-5a3b-44de-8826-e810d1854077_text.gif" />
 
-* 🌍  I'm based in Lecce, Italy. Yes, I eat a Pasticcioto every day ❤️
+* 🌍  I'm based in Lecce, Italy. Yes, I eat Pasticcioto every day ❤️
 * ✉️  You can contact me at (10alessandro96@gmail.com)
 * 🧠  I'm Software Engineer
 * 🤝  I'm open to collaborate with anyone
